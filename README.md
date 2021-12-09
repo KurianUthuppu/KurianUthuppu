@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello :wave: :slightly_smiling_face:
 
-<!--
-**KurianUthuppu/KurianUthuppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Kurian Uthuppu
 
-Here are some ideas to get you started:
+Program Management | Tech enthu | Agri-business
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: www.linkedin.com/in/kurian-uthuppu-51019b15/
+Email: kurianuthuppu11@gmail.com
+
+# My interests include:
+  * Google Data-Studio
+  * GCP
+    * Big Query (SQL)
+    * Google Chat (Chatbot) | Apps Scripts 
+  * Python
