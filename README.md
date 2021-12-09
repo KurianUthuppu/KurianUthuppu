@@ -4,7 +4,7 @@
 
 Program Management | Tech enthu | Agri-business
 
-LinkedIn: www.linkedin.com/in/kurian-uthuppu-51019b15/
+LinkedIn: www.linkedin.com/in/kurian-uthuppu-51019b15/  
 Email: kurianuthuppu11@gmail.com
 
 ### My interests include: ###
