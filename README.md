@@ -1,4 +1,4 @@
-## Hello :wave:
+### Hello :wave: ###
 
 # I'm Kurian Uthuppu :slightly_smiling_face:
 
@@ -7,7 +7,7 @@ Program Management | Tech enthu | Agri-business
 LinkedIn: www.linkedin.com/in/kurian-uthuppu-51019b15/
 Email: kurianuthuppu11@gmail.com
 
-## My interests include:
+### My interests include: ###
   * Google Data-Studio
   * GCP
     * Big Query (SQL)
