@@ -13,3 +13,6 @@ Email: kurianuthuppu11@gmail.com
     * Big Query (SQL)
     * Google Chat (Chatbot) | Apps Scripts 
   * Python
+    * Basics
+    * Web-scrapper
+  * VB
