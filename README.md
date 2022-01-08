@@ -16,5 +16,5 @@ Email: kurianuthuppu11@gmail.com
   * Python
     * Basics
     * Web-scrapper
-  * Asana
+  * Asana (Program/Project Management tool)
   * VB
