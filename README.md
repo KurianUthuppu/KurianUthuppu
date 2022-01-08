@@ -8,6 +8,7 @@ LinkedIn: www.linkedin.com/in/kurian-uthuppu-51019b15/
 Email: kurianuthuppu11@gmail.com
 
 ### My interests include: ###
+  * Google Sites
   * Google Data-Studio
   * GCP
     * Big Query (SQL)
@@ -15,4 +16,5 @@ Email: kurianuthuppu11@gmail.com
   * Python
     * Basics
     * Web-scrapper
+  * Asana
   * VB
