@@ -17,4 +17,6 @@ Email: kurianuthuppu11@gmail.com
     * Basics
     * Web-scrapper
   * Asana (Program/Project Management tool)
+  * Dialogflow
+  * Google assistant / Google actions
   * VB
