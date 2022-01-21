@@ -19,4 +19,5 @@ Email: kurianuthuppu11@gmail.com
   * Asana (Program/Project Management tool)
   * Dialogflow
   * Google assistant / Google actions
+  * Google Analytics
   * VB
