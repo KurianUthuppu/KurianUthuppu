@@ -2,13 +2,17 @@
 
 # I'm Kurian Uthuppu :slightly_smiling_face:
 
-_Program Management | Tech enthu | Agri-business | Data-Science_
+_Program Management | Management | Data-Science_
 
 LinkedIn: www.linkedin.com/in/kurian-uthuppu-51019b15/  
 Email: kurianuthuppu11@gmail.com
 
 ### My interests include: ###
-  * Google Sites
+  * Custom Chatbots using llms and open source frameworks 
+  * Microsoft Power Platform
+    * PowerBI
+    * Power Apps
+    * Power Automate
   * Google Data-Studio
   * GCP
     * Big Query (SQL)
@@ -16,8 +20,3 @@ Email: kurianuthuppu11@gmail.com
   * Python
     * Basics
     * Web-scrapper
-  * Asana (Program/Project Management tool)
-  * Dialogflow
-  * Google assistant / Google actions
-  * Google Analytics
-  * VB
