@@ -12,11 +12,11 @@ Currently overseeing software projects using modern web technologies while activ
 **Full-Stack Development:**
 - Frontend: React.js
 - Backend: Node.js
-- Database: SQL (MySQL, PostgreSQL)
+- Database: SQL (MySQL)
 - Tools: Visual Studio Code, SQL Workbench
 
 **AI/GenAI Integration:**
-- Python - RAG based AI chatbot
+- Python - RAG-based AI chatbot
 - API Integration: OpenAI GPT, Anthropic Claude
 - LLM Frameworks used: Langchain, LlamaIndex
 - Embedding Custom Chatbot Solutions
@@ -29,8 +29,8 @@ Currently overseeing software projects using modern web technologies while activ
 
 ## 🚀 What I'm Working On
 - Internal GenAI chatbots using Python and LLM APIs
-- Full-stack web applications with React/Node.js
-- Data visualization and automation solutions
+- Full-stack web applications with React/Node.js/SQL
+- Data visualization and automation solutions using Power Platform tools.
 
 ## 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/kurian-uthuppu](https://www.linkedin.com/in/kurian-uthuppu-51019b15/)
