@@ -22,7 +22,7 @@ Currently overseeing software projects using modern web technologies while activ
 - Embedding Custom Chatbot Solutions
 
 **Cloud & Data:**
-- Azurem AWS & Google Cloud Platform (GCP)
+- Azure, AWS & Google Cloud Platform (GCP)
 - BigQuery (SQL)
 - Google Apps Script
 - Microsoft Power Platform (Power BI, Power Apps, Power Automate)
