@@ -28,7 +28,7 @@ I build **quantum software tools, AI-powered applications, and scalable full-sta
 
 **Languages**
 
-Python • SQL • JavaScript
+Python • SQL
 
 **AI / GenAI**
 
