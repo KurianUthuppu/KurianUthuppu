@@ -17,26 +17,10 @@ I build **quantum software tools, AI-powered applications, and scalable full-sta
 - Quantum Machine Learning
 - NISQ Circuit Optimization
 
-**Frameworks**
-
-- Qiskit 2.x  
-- AWS Braket  
-- PennyLane  
-
 **Community**
 
 - IBM **Qiskit Tier-1 Advocate**
 - Contributor to the **Qiskit ecosystem**
-
----
-
-## 🧠 Quantum Credentials
-
-- IBM Certified **Qiskit v2.x Developer**
-- IBM Quantum **Machine Learning**
-- IBM **Variational Algorithm Design**
-- IBM **Fundamentals of Quantum Algorithms**
-- AWS **Amazon Braket Knowledge Badge**
 
 ---
 
@@ -73,7 +57,7 @@ Full-stack application built with React, Node.js, and MySQL.
 
 ## ☁️ Cloud & Data
 
-Azure • AWS • Google Cloud • BigQuery • Power BI • Power Automate
+Azure • AWS • Power BI • Power Automate • BigQuery
 
 ---
 
@@ -84,6 +68,3 @@ https://www.linkedin.com/in/kurian-uthuppu-51019b15/
 
 Email  
 kurianuthuppu11@gmail.com
-
-GitHub  
-https://github.com/KurianUthuppu
