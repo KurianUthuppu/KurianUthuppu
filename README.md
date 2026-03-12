@@ -4,13 +4,13 @@
 
 IBM Certified **Qiskit v2.x Developer** and **Tier-1 Qiskit Advocate** focused on quantum algorithms, error mitigation, and practical quantum experimentation on NISQ devices.
 
-I build **quantum software tools, AI-powered applications, and scalable full-stack systems** bridging research concepts with real-world implementation.
+I build **AI-powered applications, scalable full-stack systems and quantum computing knowledge notebooks** that bridge research concepts with real-world implementation.
 
 ---
 
 ## 🔬 Quantum Computing
 
-**Research & Focus**
+**Focus Areas**
 
 - Quantum Error Mitigation
 - Variational Algorithms (VQE, QAOA)
