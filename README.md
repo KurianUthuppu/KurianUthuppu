@@ -2,7 +2,7 @@
 
 **Quantum Software Developer | Technical Project Manager | AI Systems Builder**
 
-IBM Certified **Qiskit v2.x Developer** and **Tier-1 Qiskit Advocate** focused on quantum algorithms, error mitigation, and practical quantum experimentation on NISQ devices.
+IBM Certified **Qiskit v2.x Developer** and **Tier-2 Qiskit Advocate** focused on quantum algorithms, error mitigation, and practical quantum experimentation on NISQ devices.
 
 I build **AI-powered applications, scalable full-stack systems and quantum computing knowledge notebooks** that bridge research concepts with real-world implementation.
 
@@ -19,7 +19,7 @@ I build **AI-powered applications, scalable full-stack systems and quantum compu
 
 **Community**
 
-- IBM **Qiskit Tier-1 Advocate**
+- IBM **Qiskit Tier-2 Advocate**
 - Contributor to the **Qiskit ecosystem**
 
 ---
